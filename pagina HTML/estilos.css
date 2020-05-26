@@ -1,0 +1,35 @@
+body{
+
+	background-image: url(1fonfo.jpg);
+}
+.caja { 
+font-family: Georgia, 'Times New Roman', Times, serif; 
+font-size: 50px; 
+font-weight:100 ; 
+color: #FFFFFF; 
+background:rgb(26, 8, 8);
+text-align: center;
+}
+#columna{
+	columns: 2;
+
+}
+#columna div {
+background-position-x: center;
+}
+#navegador{
+color: #2c0101;
+background: rgb(189, 74, 74);
+text-align: left;
+background-position: right;
+}
+#navegador p {
+text-decoration-style: wavy;
+font-size: xx-large;
+}
+#navegador li a {
+	font-size: x-large;
+	padding: 2px 7px 2px 7px;
+	color: rgb(70, 20, 20);
+	text-decoration: dotted;
+ }
